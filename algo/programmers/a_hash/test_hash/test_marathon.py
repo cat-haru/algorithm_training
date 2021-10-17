@@ -7,7 +7,7 @@ $ pytest algo/programmers/a_hash/test_hash
 
 import pytest
 
-from algo.programmers.a_hash.a_marathon import solution1, solution2, solution3, solution4
+from algo.programmers.a_hash.a_marathon import *
 
 
 @pytest.mark.parametrize(
